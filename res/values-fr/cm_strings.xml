@@ -20,5 +20,5 @@
     <string name="card_title_waiting_call">Appel en attente</string>
     <string name="onscreenBlacklistText">Liste noire</string>
     <string name="blacklist_dialog_title">Ajouter à la liste noire</string>
-    <string name="blacklist_dialog_message">Les futures appels de <xliff:g id="number">%s</xliff:g> seront bloqués</string>
+    <string name="blacklist_dialog_message">Les futurs appels de <xliff:g id="number">%s</xliff:g> seront bloqués</string>
 </resources>
